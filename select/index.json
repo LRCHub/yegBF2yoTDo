@@ -1,0 +1,168 @@
+{
+  "version": 1,
+  "base_track": "さくら",
+  "base_artist": "ケツメイシ",
+  "createdAt": "2026-01-08T18:49:12.840906Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "さくら",
+      "artist": "Ketsumeishi",
+      "has_synced": true,
+      "path": "select/01_さくら_Ketsumeishi.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "さくら",
+      "artist": "ケツメイシ",
+      "has_synced": true,
+      "path": "select/02_さくら_ケツメイシ.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "さくら - Dokushou",
+      "artist": "Naotaro Moriyama",
+      "has_synced": true,
+      "path": "select/03_さくら_-_Dokushou_Naotaro_Moriyama.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "さくら (独唱)",
+      "artist": "森山直太朗",
+      "has_synced": true,
+      "path": "select/04_さくら_(独唱)_森山直太朗.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "さくら",
+      "artist": "Berry Goodman",
+      "has_synced": true,
+      "path": "select/05_さくら_Berry_Goodman.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "さくら - 独唱",
+      "artist": "森山直太朗",
+      "has_synced": true,
+      "path": "select/06_さくら_-_独唱_森山直太朗.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "さくら",
+      "artist": "Capsule",
+      "has_synced": true,
+      "path": "select/07_さくら_Capsule.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "さくら ~永遠~ feat.湘南乃風",
+      "artist": "MINMI",
+      "has_synced": false,
+      "path": "select/08_さくら_~永遠~_feat.湘南乃風_MINMI.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "さくら Starlight Ver.",
+      "artist": "amazarashi",
+      "has_synced": false,
+      "path": "select/09_さくら_Starlight_Ver._amazarashi.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "さくら",
+      "artist": "Naotaro Moriyama",
+      "has_synced": true,
+      "path": "select/10_さくら_Naotaro_Moriyama.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "さくら",
+      "artist": "amazarashi",
+      "has_synced": true,
+      "path": "select/11_さくら_amazarashi.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "さくら (ケツメイシ)",
+      "artist": "成田玲",
+      "has_synced": false,
+      "path": "select/12_さくら_(ケツメイシ)_成田玲.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "さくら - 二〇二〇合唱 / Bonus Tracks",
+      "artist": "Naotaro Moriyama",
+      "has_synced": false,
+      "path": "select/13_さくら_-_二〇二〇合唱___Bonus_Tracks_Naotaro_Moriyama.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Catch You Catch Me (さくら Ver.)",
+      "artist": "丹下桜",
+      "has_synced": false,
+      "path": "select/14_Catch_You_Catch_Me_(さくら_Ver.)_丹下桜.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "さくら",
+      "artist": "Raphael",
+      "has_synced": false,
+      "path": "select/15_さくら_Raphael.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "さくら（独唱） - Sakura",
+      "artist": "Naotaro Moriyama",
+      "has_synced": true,
+      "path": "select/16_さくら(独唱)_-_Sakura_Naotaro_Moriyama.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "さくら",
+      "artist": "CAPSULE",
+      "has_synced": true,
+      "path": "select/17_さくら_CAPSULE.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "さくら",
+      "artist": "CAPSULE",
+      "has_synced": true,
+      "path": "select/18_さくら_CAPSULE.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "さくら",
+      "artist": "amazarashi",
+      "has_synced": true,
+      "path": "select/19_さくら_amazarashi.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "さくら",
+      "artist": "ケツメイシ",
+      "has_synced": false,
+      "path": "select/pl_01_さくら_ケツメイシ.txt"
+    }
+  ]
+}
